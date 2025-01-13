@@ -16,7 +16,7 @@ const Navbar = () => {
           {isMenuOpen ? <FiX /> : <FiMenu />}
         </button>
 
-        <div className="font-bold text-xl tracking-wide">Trendify.pk</div>
+        <div className="font-bold text-xl tracking-wide">Aliya Manzoor</div>
       </div>
       <ul
         className={`${
